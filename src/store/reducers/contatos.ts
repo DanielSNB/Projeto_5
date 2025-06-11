@@ -9,26 +9,26 @@ type ContatosState = {
 const initialState: ContatosState = {
   itens: [
     {
-      nome: 'Pedro',
+      nome: 'Daniel',
       categoria: enums.Categoria.AMIGOS,
-      telefone: '(13)9999-7894',
-      email: 'phfg@phfg.com.br',
-      aniversario: '09/07',
+      telefone: '(13)99999-7894',
+      email: 'danieloliveirasnb@gmail.com',
+      aniversario: '03/01',
       id: 1
     },
     {
       nome: 'Alice',
       categoria: enums.Categoria.FAMILIA,
       telefone: '(13)9999-7894',
-      email: 'phfg@phfg.com.br',
+      email: 'danieloliveirasnb@gmail.com',
       aniversario: '09/07',
       id: 2
     },
     {
-      nome: 'Thaís',
+      nome: 'Mae',
       categoria: enums.Categoria.TRABALHO,
       telefone: '(13)9999-7894',
-      email: 'phfg@phfg.com.br',
+      email: 'danieloliveirasnb@gmail.com',
       aniversario: '09/07',
       id: 3
     }
